@@ -1,5 +1,5 @@
 # 🍉 Fruit Splash
-
+** 5th Semester GAME PROGRAMMING Project**
 **Made by Sawera**
 
 A 2D fruit-slicing game built in Unity, inspired by the classic *Fruit Ninja*. Swipe across the screen to slice flying fruits, rack up your score, and don't let too many fall  you only get 3 lives!
